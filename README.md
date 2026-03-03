@@ -55,7 +55,6 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -94,7 +93,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
 </div>
-
 <h3 align="center">🔧 Tools & Version Control</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
@@ -109,6 +107,10 @@
 </div>
 <br>
 ---
+
+
+
+
 
 <h2 align="center">🚀 Featured Projects</h2>
 
